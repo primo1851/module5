@@ -1,3 +1,5 @@
+package java.exer1;
+
 import java.util.Scanner;
 
 public class SomaIdades {

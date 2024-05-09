@@ -1,3 +1,5 @@
+package java.exer1;
+
 public class sum {
   public static void main(String[] args) {
     int aux = 0;
